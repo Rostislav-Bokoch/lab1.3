@@ -6,8 +6,8 @@
 
 1480369415 d:\lab1.3\cequation.h
 
-1480583085 source:d:\lab1.3\help.cpp
-	<CMath>
+1481014257 source:d:\lab1.3\help.cpp
+	<cmath>
 	"CEquation.h"
 	"Help.h"
 
