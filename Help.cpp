@@ -1,4 +1,4 @@
-#include <CMath>
+#include <cmath>
 #include "CEquation.h"
 #include "Help.h"
 

@@ -1,5 +1,5 @@
 #include <iostream>
-#include <CMath>
+#include <cmath>
 #include "CEquation.h"
 
 CEquation::CEquation () {

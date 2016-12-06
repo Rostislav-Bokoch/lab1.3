@@ -1,5 +1,5 @@
 #include <iostream>
-#include <Cmath>
+#include <cmath>
 #include "CEquation.h"
 
 using namespace std;
